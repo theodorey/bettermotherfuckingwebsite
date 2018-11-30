@@ -1,5 +1,16 @@
+html
+{
+	display: block;
+}
+
+head
+{
+	display: none;
+}
+
 body
 {
+	display: block;
 	line-height: 1.4;
 	background-color: #EEEEEE;
 	font-size: 18px;
