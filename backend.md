@@ -9,7 +9,7 @@
 		<aside>And it's more fucking perfect than the last guy's.</aside>
 	<h2>Seriously, it takes minimal fucking effort to improve this shit.</h2>
 		<p>7 fucking declarations.</p>
-		<p>That's how much CSS it took to turn that grotesque pile of shit into this easy-to-read masterpiece. It's so fucking simple and it <em>still</em> has all the glory of the original perfect-ass website:</p>
+		<p>That's how much CSS it took to turn that <a href="http://motherfuckingwebsite.com">grotesque pile of shit</a> into this easy-to-read masterpiece. It's so fucking simple and it <em>still</em> has all the glory of the original perfect-ass website:</p>
 	<ul>
 		<li>Shit's <em>still</em> lightweight and loads fast</li>
 		<li><em>still</em> fits on all your shitty screens</li>
@@ -29,14 +29,14 @@
 	<h3>Line-width, motherfucker</h3>
 	<p>Looking at an LCD screen is strainful enough. Don't make me read a line of text that's 200 fucking characters long. Keep it to a nice 60-80 and users might actually read more than one sentence of your worthless dribble.</p>
 	<h3>Yes, this is also fucking satire, you fuck</h3>
-	<p>I love what the creator of this site's inspiration did. What I'm saying is that it's so, so simple to make sites easier to read. Websites are broken by default, they are functional, high-performing, and accessible, but they're also fucking ugly. You and all the other web designers out there need to make them not total shit.</p>
+	<p>I love what the creator of <a href="http://motherfuckingwebsite.com">this site's inspiration</a> did. What I'm saying is that it's so, so simple to make sites easier to read. Websites are broken by default, they are functional, high-performing, and accessible, but they're also fucking ugly. You and all the other web designers out there need to make them not total shit.</p>
 	<blockquote>
     <p>"You're a fucking moron if you use default browser styles." </p>
 	</blockquote>
 	<cite>– Aldous Huxley, Brave New World</cite>
 	<hr>
 	<h2>Epilogue</h2>
-	<p>Inspired by the geniuses behind motherfuckingwebsite.com and txti.</p>
-	<p>This page—that isn't a total fucking eyesore—was created by me with help from him.</p>
+	<p>Inspired by the geniuses behind <a href="http://motherfuckingwebsite.com">motherfuckingwebsite.com</a> and <a href="http://txti.es"> txti</a>.</p>
+	<p>This page—that isn't a total fucking eyesore—was created by <a href="https://twitter.com/drew_mc">me</a> with help from <a href="https://twitter.com/gabehammersmith"> him</a>.</p>
 </body>
 </html>
